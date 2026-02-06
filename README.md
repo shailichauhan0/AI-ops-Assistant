@@ -1,11 +1,5 @@
-# AI-ops-Assistant
+# AI Operations Assistant 
 Multi-agent GenAI system using Planner–Executor–Verifier architecture with real API integrations.
-
-# AI Operations Assistant (GenAI Intern Assignment – TrulyMadly)
-
-This repository contains a **complete, runnable, multi-agent GenAI system** that satisfies all mandatory requirements of the assignment.
-
----
 
 ## 📁 Project Structure
 
@@ -262,5 +256,4 @@ python main.py
 
 ---
 
-**This project is 100% aligned with the TrulyMadly GenAI Intern assignment and is ready for GitHub submission.**
 
